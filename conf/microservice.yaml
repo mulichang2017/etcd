@@ -1,0 +1,4 @@
+APPLICATION_ID: myapp
+service_description:
+  name: testGo
+  version: 0.0.1
